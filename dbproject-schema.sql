@@ -64,7 +64,7 @@ CREATE TABLE race_stats (
     foreign key (race_oars) references oar_set(color)
     );
 
-
+/*
 DROP TABLE athlete CASCADE CONSTRAINTS;
 DROP TABLE boat CASCADE CONSTRAINTS;
 DROP TABLE coach CASCADE CONSTRAINTS;
@@ -72,6 +72,7 @@ DROP TABLE rows_on CASCADE CONSTRAINTS;
 DROP TABLE oar_set CASCADE CONSTRAINTS;
 DROP TABLE coaches_on CASCADE CONSTRAINTS;
 DROP TABLE race_stats CASCADE CONSTRAINTS;
+*/
 
     
     

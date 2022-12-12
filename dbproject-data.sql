@@ -254,7 +254,7 @@ INSERT INTO race_stats VALUES(
 
 
     
-    
+/*   
 DELETE FROM athlete;
 DELETE FROM boat;
 DELETE FROM works_on;
@@ -262,4 +262,5 @@ DELETE FROM coach;
 DELETE FROM oar_set;
 DELETE FROM coaches_on;
 DELETE FROM race_stats;
+*/
 
